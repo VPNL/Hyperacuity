@@ -1,4 +1,0 @@
-Target Location in format: 1. street, city, State Zipcode 2. height of the target building 3. width of the target building
-415 Mission St, San Francisco, CA 94105
-1070
-75.21
