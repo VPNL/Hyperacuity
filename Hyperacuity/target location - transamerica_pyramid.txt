@@ -1,0 +1,4 @@
+Target Location in format: 1. street, city, State Zipcode 2. height of the target building 3. width of the target building
+600 Montgomery St, San Francisco, CA 94111
+853
+175
