@@ -1,0 +1,2 @@
+Observation Location in format: latitude,longitude
+37.417,-122.18
